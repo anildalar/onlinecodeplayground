@@ -30,7 +30,7 @@ body{
     .container-fluid {
         padding:8px !important;
     }
-    .btn{
-        padding:4px;
+    .btn-success{
+       width: 100%;
     }
   }
