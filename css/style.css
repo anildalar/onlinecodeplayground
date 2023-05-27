@@ -31,3 +31,9 @@ body{
     height: 6rem;
     border-width: 0.4em;
 }
+
+@media only screen and (max-width: 576px) {
+    .container-fluid {
+        padding:8px !important;
+    }
+  }
