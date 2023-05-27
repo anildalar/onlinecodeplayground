@@ -9,12 +9,6 @@ body{
 .a_tbdr{
     border:1px dashed #000;
 }
-.a_w10{
-    width: 200px;
-}
-.a_w5{
-    width: 100px;
-}
 .a_h600{
     min-height: 620px;
 }
@@ -35,5 +29,8 @@ body{
 @media only screen and (max-width: 576px) {
     .container-fluid {
         padding:8px !important;
+    }
+    .btn{
+        padding:4px;
     }
   }
