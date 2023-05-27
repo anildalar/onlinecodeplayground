@@ -37,3 +37,8 @@ body{
         margin-bottom: 10px;
     }
 }
+@media only screen and (min-width: 576px) and (max-width: 992px) {
+    .a_c1{
+        margin-bottom: 10px;
+    }
+}
